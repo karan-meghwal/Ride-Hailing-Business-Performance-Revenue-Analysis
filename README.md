@@ -29,3 +29,13 @@ Ans -<br>
   1. Focus on reducing cancelled rides, as approx 5k cancelled rides represent potential revenue impact of approx 27.6 lakh.<br>
   2. Improve compeleted rides more to analysing cancelled patterns across time and locations to retain July-level performance momentum.
 
+
+<img width="757" height="650" alt="Screenshot 2026-01-07 at 10 20 25 PM" src="https://github.com/user-attachments/assets/cf8342a4-bb1b-426e-900f-eca35bf078a6" />
+
+
+
+
+
+
+
+
