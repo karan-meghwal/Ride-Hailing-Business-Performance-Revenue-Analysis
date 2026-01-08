@@ -45,11 +45,9 @@ Ans -<br>
 | Bike         | 547.85                    | 10.32%                 |
 | Parcel	   | 546.39                    | 9.55%                  | 
 
-* **Auto** has highetes **RPR** "₹ 548.83" and lowest cancellation rate "9.84%".<br>
-
 **Insight**<br>
-Auto delivers the highest revenue per ride (₹548.83) while also maintaining the lowest cancellation rate (9.84%), making it the most efficient service segment.<br>
-Cab Economy shows the highest cancellation rate (10.33%), representing the largest source of potential revenue leakage due to its high ride volume.<br>
+* Auto delivers the highest revenue per ride (₹548.83) while also maintaining the lowest cancellation rate (9.84%), making it the most efficient service segment.<br>
+* Cab Economy shows the highest cancellation rate (10.33%), representing the largest source of potential revenue leakage due to its high ride volume.<br>
 
 🎯 **Business Recommendations**<br>
 1. Prioritize reduction of Cab Economy cancellations, as even a small improvement in completion rate can unlock meaningful revenue recovery due to its scale.<br>
